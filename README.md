@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
+  <h1>¡Hola, soy Kevin Matos! 👋</h1>
+  <h3>🚀 Desarrollador Apasionado | Entusiasta del Código</h3>
 
-<!--
-**KevinMatos05/KevinMatos05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>
+    <em>"El código es poesía lógica."</em>
+  </p>
 
-Here are some ideas to get you started:
+  <a href="https://linkedin.com/in/tu-usuario">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 Sobre mí
+
+- 🔭 Actualmente estoy estudiando **Ingenieria en Sistemas de Informacion**.
+- 🌱 Conozco de varios legunajes **Python, JavaScript, CSS, HTML, React, Java**.
+- 👯 Busco colaborar en **proyectos de código abierto**.
+
+---
+
+### 🛠️ Stack Tecnológico
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </div>
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinMatos05&show_icons=true&theme=radical" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinMatos05&layout=compact&theme=radical" height="180" alt="languages graph" />
+</div>
