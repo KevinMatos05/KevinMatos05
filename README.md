@@ -39,7 +39,6 @@
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinMatos05&show_icons=true&theme=radical" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinMatos05&layout=compact&theme=radical" height="180" alt="languages graph" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KevinMatos05&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
