@@ -21,7 +21,10 @@
 - 🔭 Actualmente estoy estudiando **Ingenieria en Sistemas de Informacion**.
 - 🌱 Conozco de varios legunajes **Python, JavaScript, CSS, HTML, React, Java**.
 - 👯 Busco colaborar en **proyectos de código abierto**.
-
+- 🌐 Me encanta aprender y disfrutar del aprendizaje
+- 🔒 Interes por la **ciberseguridad**
+- 🚀 Actualmente trabajadndo en proyectos personales para **Mejorar mi Stack**
+  
 ---
 
 ### 🛠️ Stack Tecnológico
