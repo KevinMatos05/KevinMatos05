@@ -40,4 +40,6 @@
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-![Metrics](https://metrics.lecoq.io/KevinMatos05?template=classic&base=header,activity,community,repositories,metadata&config.timezone=America%2FArgentina%2FCordoba)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=KevinMatos05&show_icons=true&theme=radical)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinMatos05&layout=compact&theme=radical)
+![Racha](https://streak-stats.demolab.com/?user=KevinMatos05&theme=radical&hide_border=true)
