@@ -49,10 +49,3 @@
     <img src="https://streak-stats.demolab.com/?user=KevinMatos05&theme=radical&hide_border=true&v=2" alt="GitHub Streak" />
   </p>
 </div>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinMatos05&layout=compact&theme=radical&v=2" alt="Lenguajes Top" />
-
-  <p>
-    <img src="https://streak-stats.demolab.com/?user=KevinMatos05&theme=radical&hide_border=true&v=2" alt="GitHub Streak" />
-  </p>
-</div>
