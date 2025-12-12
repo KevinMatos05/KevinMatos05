@@ -40,6 +40,12 @@
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KevinMatos05&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinMatos05&show_icons=true&theme=radical" alt="Estadísticas Generales" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinMatos05&layout=compact&theme=radical" alt="Lenguajes Top" />
+
+  <p>
+    <img src="https://streak-stats.demolab.com?user=KevinMatos05&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </p>
+</div>
