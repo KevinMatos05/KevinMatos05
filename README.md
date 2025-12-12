@@ -40,6 +40,5 @@
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-![Estadísticas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KevinMatos05&show_icons=true&theme=radical)
-![Lenguajes](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KevinMatos05&layout=compact&theme=radical)
+![Racha](https://streak-stats.demolab.com/?user=KevinMatos05&theme=radical&hide_border=true)
 
